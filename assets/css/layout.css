@@ -1,0 +1,23 @@
+body{
+    width: 97%;
+}
+nav{
+    padding:15px;
+    background-color: rgb(129, 216, 209);
+    margin-top: -0.4%;
+    width: 100%;
+    border-radius: 10px;
+
+}
+nav > a:hover{
+     border-bottom: 4px solid orange;
+     padding-bottom: 11px;
+}
+a{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: rgb(230, 54, 10);
+    font-size: 20px;
+
+}
